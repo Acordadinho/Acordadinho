@@ -1,20 +1,22 @@
 ```
-    ╔═══════════════════════════════════════╗
-    ║                                       ║
-    ║   🎯 ACORDADINHO | Lucas priv++      ║
-    ║                                       ║
-    ║   Code • Build • Deploy • Repeat      ║
-    ║                                       ║
-    ╚═══════════════════════════════════════╝
+████████╗  ██╗   ██╗  ██████╗  █████╗ ███████╗
+██╔═════╝  ██║   ██║ ██╔════╝ ██╔══██╗██╔════╝
+██║        ██║   ██║ ██║      ███████║███████╗
+██║        ██║   ██║ ██║      ██╔══██║╚════██║
+████████╗  ╚██████╔╝ ╚██████╗ ██║  ██║███████║
+╚═════════╝  ╚═════╝   ╚═════╝ ╚═╝  ╚═╝╚══════╝
+
+       > LUCAS PRIV++ | Code Architect <
+           ▓ Building Future in Binary ▓
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 Desenvolvedor Full Stack | Arquitetor de Ideias
+### 🚀 Full Stack Developer | Solucionador de Problemas
 
-*Transformando café em código desde sempre*
+*Transformando ideias em código limpo e poderoso*
 
 </div>
 
