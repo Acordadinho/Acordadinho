@@ -1,16 +1,43 @@
-## Hi there 👋
+```
+ ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
+ ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
+ ██║     ██║   ██║██║     ███████║███████╗
+ ██║     ██║   ██║██║     ██╔══██║╚════██║
+ ███████╗╚██████╔╝╚██████╗██║  ██║███████║
+ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+```
 
-<!--
-**Acordadinho/Acordadinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code. Build. Deploy. Repeat. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Arsenal de Tecnologias
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Vibe do Código
+
+```python
+while True:
+    debug()
+    optimize()
+    deploy()
+    sleep(coffee)
+```
+
+---
+
+<div align="center">
+  
+**Criando o futuro, uma linha de código por vez** 🔥
+
+</div>
