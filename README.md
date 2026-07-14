@@ -1,18 +1,18 @@
 <!-- ═══════════════════ BANNER ANIMADO ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Lucas%20%7C%20Acordadinho&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C%2F%3E%20Code%20is%20art%20that%20works%20%3C%2F%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=220&section=header&text=Lucas%20%7C%20Acordadinho&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%2F%3E%20Code%20is%20art%20that%20works%20%3C%2F%3E&descAlignY=55&descSize=18&stroke=001a4d&strokeWidth=1" width="100%"/>
 
 <!-- ═══════════════════ TYPING ANIMADO ═══════════════════ -->
 <a href="https://github.com/acordadinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=8E2DE2&label=VISITAS)
-![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=4A00E0&labelColor=1a1a2e)
-![Focus](https://img.shields.io/badge/FOCUS-CODING-8E2DE2?style=for-the-badge&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=00C6FF&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=0072FF&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/FOCUS-CODING-00C6FF?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -77,16 +77,16 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=4A00E0&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2&langs_count=8" alt="Top Langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=0072FF&text_color=c9d1d9&ring_color=00C6FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&langs_count=8&card_width=320" alt="Top Langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=acordadinho&theme=midnight-purple&hide_border=true&background=0d1117&ring=8E2DE2&fire=FF6B35&currStreakLabel=8E2DE2&locale=pt_BR" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=acordadinho&hide_border=true&background=0d1117&ring=00C6FF&fire=0072FF&currStreakNum=00C6FF&currStreakLabel=00C6FF&sideNums=0072FF&sideLabels=58a6ff&dates=8b949e&stroke=0072FF&locale=pt_BR" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&theme=react-dark&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=FF6B35&hide_border=true&area=true&area_color=8E2DE2" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&bg_color=0d1117&color=58a6ff&line=0072FF&point=00C6FF&title_color=00C6FF&hide_border=true&area=true&area_color=0072FF&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -95,7 +95,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=acordadinho&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=acordadinho&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -115,7 +115,7 @@ public:
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
@@ -128,6 +128,6 @@ public:
 
 <sub>Made with ❤️ + ☕ by Lucas | acordadinho</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=120&section=footer" width="100%"/>
 
 </div>
