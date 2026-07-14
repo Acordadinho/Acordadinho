@@ -10,87 +10,231 @@
            ▓ Building Future in Binary ▓
 ```
 
----
-
 <div align="center">
 
-### 🚀 Full Stack Developer | Solucionador de Problemas
+### ⚡ Full Stack Developer | Problem Solver | Tech Enthusiast
 
-*Transformando ideias em código limpo e poderoso*
+> *"Código não é só lógica, é arte. Arte que funciona."*
+
+---
+
+✨ **Transformando ideias em realidade** ✨
 
 </div>
 
 ---
 
-## 💎 Skills & Arsenal
+## 🎯 Quick Stats
 
 <div align="center">
 
-### 🛠️ Linguagens de Poder
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-
-### 🎨 Frontend & Web
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
-
-### ⚙️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=Acordadinho&style=flat-square&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Acordadinho?style=flat-square&label=Followers&color=success)
+![Status](https://img.shields.io/badge/Status-🔴%20Coding-critical?style=flat-square)
 
 </div>
 
 ---
 
-## 🧠 A Filosofia do Código
+## 💥 Arsenal Tecnológico
 
-```python
-# 📋 O Ciclo Infinito
-while vida == "dev":
-    ✨ ideias       = pensar()
-    🔨 code         = construir(ideias)
-    ✅ testes       = validar(code)
-    🚀 deploy       = enviar(code)
-    ☕ recompensa   = tomar_café()
-    📈 aprender     = evoluir()
-    
-    # Repeat forever...
+<div align="center">
+
+### 🏆 Main Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🚀 Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ⚙️ Systems & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 🌊 Wave Animation
+
+```
+    ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
+   ≈ Code Wave ≈ Flowing ≈ Through ≈ Time ≈
+    ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
 ```
 
 ---
 
-## 📊 Activity Board
+## 🧠 Filosofia do Desenvolvimento
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Commits-Em%20Progresso-blue?style=flat-square&logo=git)
-![Status](https://img.shields.io/badge/Status-Building-success?style=flat-square&logo=github)
-![Mood](https://img.shields.io/badge/Mood-Cafeinado-blueviolet?style=flat-square&logo=coffeescript)
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  while (criar_código === true) {                      ║
+║                                                       ║
+║    💡 IDEALIZE                                        ║
+║         ↓                                              ║
+║    🔨 CODIGO LIMPO & EFICIENTE                        ║
+║         ↓                                              ║
+║    ✅ TESTES RIGOROSOS                               ║
+║         ↓                                              ║
+║    🚀 DEPLOY COM CONFIANÇA                            ║
+║         ↓                                              ║
+║    📈 SEMPRE APRENDENDO                               ║
+║         ↓                                              ║
+║    🔄 REPEAT > ∞                                      ║
+║                                                       ║
+║  }                                                     ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🎯 Missão
-
-> *"Não é só sobre código, é sobre criar experiências que importam"*
-
-- 🔥 Resolver problemas complexos com soluções elegantes
-- 📚 Aprender algo novo todo dia
-- 🤝 Colaborar e compartilhar conhecimento
-- 🌟 Deixar o código melhor do que encontrei
-
----
+## ⭐ Core Values
 
 <div align="center">
 
-### 💬 Bora Conversar?
-
-*Aberto a ideias, colaborações e café virtual* ☕
+| 🎯 | Objetivo | 💡 | Criatividade |
+|:---:|:---:|:---:|:---:|
+| **Resolver** problemas | **Inovar** soluções |
+| 🔥 | Performance | 🛡️ | Qualidade |
+| **Otimizar** código | **Proteger** dados |
 
 </div>
+
+---
+
+## 💻 Code Snippet
+
+```cpp
+#include <iostream>
+#include <passion>
+#include <dedication>
+#include <coffee>
+
+class Developer {
+private:
+    string name = "Lucas";
+    string passion = "Building Amazing Things";
+    
+public:
+    void dailyRoutine() {
+        while (alive) {
+            code();              // 🔨
+            debug();             // 🐛
+            optimize();          // ⚡
+            test();              // ✅
+            deploy();            // 🚀
+            drinkCoffee();        // ☕
+            learnMore();         // 📚
+            repeat();            // 🔄
+        }
+    }
+};
+
+int main() {
+    Developer lucas;
+    lucas.dailyRoutine();
+    return SUCCESS; // 🎉
+}
+```
+
+---
+
+## 🎨 Vibe Atual
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────╮
+│  🌟 STATUS ATUAL 🌟                         │
+├─────────────────────────────────────────────┤
+│  💻 Building          [████████░░] 80%     │
+│  🔥 Focused           [██████████] 100%    │
+│  ☕ Caffeinated       [██████████] 100%    │
+│  🚀 Ready to Launch   [██████████] 100%    │
+│  💪 Energy Level      [████████░░] 85%     │
+╰─────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 🌠 Skyline de Habilidades
+
+<div align="center">
+
+```
+Problem Solving    ████████████████░░ 90%
+Code Quality       ██████████████░░░░ 85%
+Performance Opt.   ███████████████░░░ 88%
+System Design      ██████████░░░░░░░░ 75%
+Learning Speed     ████████████████░░ 92%
+```
+
+</div>
+
+---
+
+## 🎯 Metas & Visão
+
+<div align="center">
+
+- 🚀 **Criar software que impacta**
+- 📚 **Aprender tecnologias revolucionárias**
+- 🤝 **Colaborar em projetos épicos**
+- 🌍 **Deixar legado no código**
+- ⚡ **Performance é prioridade**
+
+</div>
+
+---
+
+## 🔗 Conectar & Colaborar
+
+<div align="center">
+
+**💬 Open to new ideas, collaborations, and challenging projects!**
+
+*Let's create something that matters* 🚀
+
+---
+
+<sub>Made with ❤️ + ☕ + 🎯 by Lucas | ACORDADINHO</sub>
+
+</div>
+
+---
+
+## 🌈 Fun Fact
+
+```
+┌─────────────────────────────────────┐
+│  Café consumido enquanto código:    │
+│  ☕☕☕☕☕☕☕☕☕☕ (∞ cups)           │
+│                                     │
+│  Bugs descobertos: MUITOS! 🐛       │
+│  Bugs fixados: TODOS! ✅            │
+│                                     │
+│  Satisfação? TOTAL! 🎉              │
+└─────────────────────────────────────┘
+```
+
+---
+
+⭐ *If you find this interesting, feel free to star it!* ⭐
