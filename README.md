@@ -1,25 +1,25 @@
-<!-- ═══════════════════ BANNER ANIMADO ═══════════════════ -->
+<!-- ═══════════════════ BANNER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=220&section=header&text=Lucas%20%7C%20Acordadinho&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%2F%3E%20Code%20is%20art%20that%20works%20%3C%2F%3E&descAlignY=55&descSize=18&stroke=001a4d&strokeWidth=1" width="100%"/>
+<img src="https://i.pinimg.com/originals/b0/08/ec/b008ecb392ac318781b34692404e9c15.gif" width="100%" alt=""/>
 
-<!-- ═══════════════════ TYPING ANIMADO ═══════════════════ -->
+<!-- ═══════════════════ THE WORLD IS YOURS ═══════════════════ -->
 <a href="https://github.com/acordadinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&weight=500&size=34&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=The+World+Is+Yours.;Lucas+%7C+Acordadinho;C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript" alt="The World Is Yours." />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=00C6FF&label=VISITAS)
-![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=0072FF&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/FOCUS-CODING-00C6FF?style=for-the-badge&labelColor=0d1117)
+![Visitas](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=000000&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=000000&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-LOCKED_IN-000000?style=for-the-badge&labelColor=000000)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:555555,100:000000&height=2" width="100%"/>
 
 </div>
 
-<br/>
-
 <!-- ═══════════════════ SOBRE MIM ═══════════════════ -->
-## 🧬 Sobre mim
+## 🕯️ Sobre mim
 
 <table>
 <tr>
@@ -29,16 +29,16 @@
 class Lucas : public Developer {
 public:
     string username = "acordadinho";
-    string from     = "Brasil 🇧🇷";
+    string from     = "Brasil";
     string focus    = "Full Stack + Systems";
-    string fuel     = "café ☕ (nível: crítico)";
+    string mindset  = "the world is yours";
 
     void dailyRoutine() {
         while (alive) {
-            code();      // 🔨
-            debug();     // 🐛
-            learn();     // 📚
-            repeat();    // 🔄
+            code();
+            debug();
+            learn();
+            repeat();
         }
     }
 };
@@ -47,7 +47,7 @@ public:
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding"/>
+<img src="https://i.pinimg.com/originals/48/da/f7/48daf7e5b6854813743c16d38961c7d7.gif" width="100%" alt=""/>
 
 </td>
 </tr>
@@ -55,71 +55,59 @@ public:
 
 <div align="center">
 
-🔭 **Sempre construindo algo novo** &nbsp;·&nbsp; ⚡ **Performance é prioridade** &nbsp;·&nbsp; ☕ **Movido a café**
+**Sempre construindo algo novo** &nbsp;·&nbsp; **Performance é prioridade** &nbsp;·&nbsp; **Movido a café**
 
 > *"Código não é só lógica, é arte. Arte que funciona."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:555555,100:000000&height=2" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════ STACK ═══════════════════ -->
-## 🛠️ Arsenal Tecnológico
+<!-- ═══════════════════ TECNOLOGIAS ═══════════════════ -->
+## ⛓️ Tecnologias
 
 <div align="center">
 
-### Linguagens
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,html,css&theme=dark" alt="Linguagens"/>
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=white)
 
-### Ferramentas & Ambiente
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,windows,linux&theme=dark" alt="Ferramentas"/>
-
-<br/><br/>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:555555,100:000000&height=2" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 Estatísticas
+<!-- ═══════════════════ ESTATÍSTICAS ═══════════════════ -->
+## 🗡️ Estatísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=0072FF&text_color=c9d1d9&ring_color=00C6FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&langs_count=8&card_width=320" alt="Top Langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9e9e9e&langs_count=8&card_width=320" alt="Top Langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=acordadinho&hide_border=true&background=0d1117&ring=00C6FF&fire=0072FF&currStreakNum=00C6FF&currStreakLabel=00C6FF&sideNums=0072FF&sideLabels=58a6ff&dates=8b949e&stroke=0072FF&locale=pt_BR" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=acordadinho&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9e9e9e&dates=6e6e6e&stroke=555555&locale=pt_BR" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&bg_color=0d1117&color=58a6ff&line=0072FF&point=00C6FF&title_color=00C6FF&hide_border=true&area=true&area_color=0072FF&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&bg_color=000000&color=9e9e9e&line=ffffff&point=ffffff&title_color=ffffff&hide_border=true&area=true&area_color=555555&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════ TROFÉUS ═══════════════════ -->
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=acordadinho&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:555555,100:000000&height=2" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
-## 🐍 Cobrinha devorando meus commits
+## 🐍 Snake
 
 <div align="center">
 
@@ -134,19 +122,14 @@ public:
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 
-</div>
+<br/><br/>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:555555,100:000000&height=2" width="100%"/>
 
-**💬 Aberto a novas ideias, colaborações e projetos desafiadores!**
+<br/>
 
-*Let's build something that matters* 🚀
-
-<sub>Made with ❤️ + ☕ by Lucas | acordadinho</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=120&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&weight=500&size=20&duration=5000&pause=2000&color=9E9E9E&center=true&vCenter=true&width=440&lines=Made+with+%F0%9F%96%A4+by+Lucas;The+World+Is+Yours." alt="The World Is Yours." />
 
 </div>
