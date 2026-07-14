@@ -19,34 +19,49 @@
 <br/>
 
 <!-- ═══════════════════ SOBRE MIM ═══════════════════ -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
-
 ## 🧬 Sobre mim
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```cpp
 class Lucas : public Developer {
 public:
-    string   username  = "acordadinho";
-    string   from      = "Brasil 🇧🇷";
-    string   focus     = "Full Stack + Systems";
-    string   fuel      = "café ☕ (nível: crítico)";
+    string username = "acordadinho";
+    string from     = "Brasil 🇧🇷";
+    string focus    = "Full Stack + Systems";
+    string fuel     = "café ☕ (nível: crítico)";
 
     void dailyRoutine() {
         while (alive) {
-            code();       // 🔨
-            debug();      // 🐛
-            learn();      // 📚
-            repeat();     // 🔄
+            code();      // 🔨
+            debug();     // 🐛
+            learn();     // 📚
+            repeat();    // 🔄
         }
     }
 };
 ```
 
-- 🔭 Sempre construindo algo novo
-- ⚡ Performance é prioridade
-- 🎯 *"Código não é só lógica, é arte. Arte que funciona."*
+</td>
+<td width="42%" align="center" valign="middle">
 
-<br clear="right"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🔭 **Sempre construindo algo novo** &nbsp;·&nbsp; ⚡ **Performance é prioridade** &nbsp;·&nbsp; ☕ **Movido a café**
+
+> *"Código não é só lógica, é arte. Arte que funciona."*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
+
+</div>
 
 <!-- ═══════════════════ STACK ═══════════════════ -->
 ## 🛠️ Arsenal Tecnológico
@@ -70,6 +85,8 @@ public:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
+
 </div>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
@@ -87,6 +104,8 @@ public:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&bg_color=0d1117&color=58a6ff&line=0072FF&point=00C6FF&title_color=00C6FF&hide_border=true&area=true&area_color=0072FF&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1" width="95%" alt="Activity Graph"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:0037AF&height=3" width="100%"/>
 
 </div>
 
