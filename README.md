@@ -17,7 +17,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/b0/08/ec/b008ecb392ac318781b34692404e9c15.gif" width="100%" alt=""/>
+<img src="assets/cross.gif" width="100%" alt=""/>
 
 </td>
 </tr>
