@@ -1,240 +1,133 @@
-```
-████████╗  ██╗   ██╗  ██████╗  █████╗ ███████╗
-██╔═════╝  ██║   ██║ ██╔════╝ ██╔══██╗██╔════╝
-██║        ██║   ██║ ██║      ███████║███████╗
-██║        ██║   ██║ ██║      ██╔══██║╚════██║
-████████╗  ╚██████╔╝ ╚██████╗ ██║  ██║███████║
-╚═════════╝  ╚═════╝   ╚═════╝ ╚═╝  ╚═╝╚══════╝
-
-       > LUCAS PRIV++ | Code Architect <
-           ▓ Building Future in Binary ▓
-```
-
+<!-- ═══════════════════ BANNER ANIMADO ═══════════════════ -->
 <div align="center">
 
-### ⚡ Full Stack Developer | Problem Solver | Tech Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Lucas%20%7C%20Acordadinho&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C%2F%3E%20Code%20is%20art%20that%20works%20%3C%2F%3E&descAlignY=55&descSize=18" width="100%"/>
 
-> *"Código não é só lógica, é arte. Arte que funciona."*
+<!-- ═══════════════════ TYPING ANIMADO ═══════════════════ -->
+<a href="https://github.com/acordadinho">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-✨ **Transformando ideias em realidade** ✨
+![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=8E2DE2&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=4A00E0&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/FOCUS-CODING-8E2DE2?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
----
+<br/>
 
-## 🎯 Quick Stats
+<!-- ═══════════════════ SOBRE MIM ═══════════════════ -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Acordadinho&style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Acordadinho?style=flat-square&label=Followers&color=success)
-![Status](https://img.shields.io/badge/Status-🔴%20Coding-critical?style=flat-square)
-
-</div>
-
----
-
-## 💥 Arsenal Tecnológico
-
-<div align="center">
-
-### 🏆 Main Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ⚙️ Systems & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-## 🌊 Wave Animation
-
-```
-    ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
-   ≈ Code Wave ≈ Flowing ≈ Through ≈ Time ≈
-    ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
-```
-
----
-
-## 🧠 Filosofia do Desenvolvimento
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║  while (criar_código === true) {                      ║
-║                                                       ║
-║    💡 IDEALIZE                                        ║
-║         ↓                                              ║
-║    🔨 CODIGO LIMPO & EFICIENTE                        ║
-║         ↓                                              ║
-║    ✅ TESTES RIGOROSOS                               ║
-║         ↓                                              ║
-║    🚀 DEPLOY COM CONFIANÇA                            ║
-║         ↓                                              ║
-║    📈 SEMPRE APRENDENDO                               ║
-║         ↓                                              ║
-║    🔄 REPEAT > ∞                                      ║
-║                                                       ║
-║  }                                                     ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ⭐ Core Values
-
-<div align="center">
-
-| 🎯 | Objetivo | 💡 | Criatividade |
-|:---:|:---:|:---:|:---:|
-| **Resolver** problemas | **Inovar** soluções |
-| 🔥 | Performance | 🛡️ | Qualidade |
-| **Otimizar** código | **Proteger** dados |
-
-</div>
-
----
-
-## 💻 Code Snippet
+## 🧬 Sobre mim
 
 ```cpp
-#include <iostream>
-#include <passion>
-#include <dedication>
-#include <coffee>
-
-class Developer {
-private:
-    string name = "Lucas";
-    string passion = "Building Amazing Things";
-    
+class Lucas : public Developer {
 public:
+    string   username  = "acordadinho";
+    string   from      = "Brasil 🇧🇷";
+    string   focus     = "Full Stack + Systems";
+    string   fuel      = "café ☕ (nível: crítico)";
+
     void dailyRoutine() {
         while (alive) {
-            code();              // 🔨
-            debug();             // 🐛
-            optimize();          // ⚡
-            test();              // ✅
-            deploy();            // 🚀
-            drinkCoffee();        // ☕
-            learnMore();         // 📚
-            repeat();            // 🔄
+            code();       // 🔨
+            debug();      // 🐛
+            learn();      // 📚
+            repeat();     // 🔄
         }
     }
 };
-
-int main() {
-    Developer lucas;
-    lucas.dailyRoutine();
-    return SUCCESS; // 🎉
-}
 ```
 
----
+- 🔭 Sempre construindo algo novo
+- ⚡ Performance é prioridade
+- 🎯 *"Código não é só lógica, é arte. Arte que funciona."*
 
-## 🎨 Vibe Atual
+<br clear="right"/>
+
+<!-- ═══════════════════ STACK ═══════════════════ -->
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────────╮
-│  🌟 STATUS ATUAL 🌟                         │
-├─────────────────────────────────────────────┤
-│  💻 Building          [████████░░] 80%     │
-│  🔥 Focused           [██████████] 100%    │
-│  ☕ Caffeinated       [██████████] 100%    │
-│  🚀 Ready to Launch   [██████████] 100%    │
-│  💪 Energy Level      [████████░░] 85%     │
-╰─────────────────────────────────────────────╯
-```
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,html,css&theme=dark" alt="Linguagens"/>
+
+### Ferramentas & Ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,windows,linux&theme=dark" alt="Ferramentas"/>
+
+<br/><br/>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
----
-
-## 🌠 Skyline de Habilidades
+<!-- ═══════════════════ STATS ═══════════════════ -->
+## 📊 Estatísticas
 
 <div align="center">
 
-```
-Problem Solving    ████████████████░░ 90%
-Code Quality       ██████████████░░░░ 85%
-Performance Opt.   ███████████████░░░ 88%
-System Design      ██████████░░░░░░░░ 75%
-Learning Speed     ████████████████░░ 92%
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=4A00E0&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2&langs_count=8" alt="Top Langs"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=acordadinho&theme=midnight-purple&hide_border=true&background=0d1117&ring=8E2DE2&fire=FF6B35&currStreakLabel=8E2DE2&locale=pt_BR" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acordadinho&theme=react-dark&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=FF6B35&hide_border=true&area=true&area_color=8E2DE2" width="95%" alt="Activity Graph"/>
 
 </div>
 
----
-
-## 🎯 Metas & Visão
+<!-- ═══════════════════ TROFÉUS ═══════════════════ -->
+## 🏆 Troféus
 
 <div align="center">
 
-- 🚀 **Criar software que impacta**
-- 📚 **Aprender tecnologias revolucionárias**
-- 🤝 **Colaborar em projetos épicos**
-- 🌍 **Deixar legado no código**
-- ⚡ **Performance é prioridade**
+<img src="https://github-profile-trophy.vercel.app/?username=acordadinho&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
----
-
-## 🔗 Conectar & Colaborar
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+## 🐍 Cobrinha devorando meus commits
 
 <div align="center">
 
-**💬 Open to new ideas, collaborations, and challenging projects!**
-
-*Let's create something that matters* 🚀
-
----
-
-<sub>Made with ❤️ + ☕ + 🎯 by Lucas | ACORDADINHO</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acordadinho/acordadinho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acordadinho/acordadinho/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/acordadinho/acordadinho/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
----
+<!-- ═══════════════════ QUOTE ═══════════════════ -->
+<div align="center">
 
-## 🌈 Fun Fact
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
-```
-┌─────────────────────────────────────┐
-│  Café consumido enquanto código:    │
-│  ☕☕☕☕☕☕☕☕☕☕ (∞ cups)           │
-│                                     │
-│  Bugs descobertos: MUITOS! 🐛       │
-│  Bugs fixados: TODOS! ✅            │
-│                                     │
-│  Satisfação? TOTAL! 🎉              │
-└─────────────────────────────────────┘
-```
+</div>
 
----
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
 
-⭐ *If you find this interesting, feel free to star it!* ⭐
+**💬 Aberto a novas ideias, colaborações e projetos desafiadores!**
+
+*Let's build something that matters* 🚀
+
+<sub>Made with ❤️ + ☕ by Lucas | acordadinho</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
+
+</div>
