@@ -8,21 +8,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
-<table>
+<table width="100%">
 <tr>
-<td width="56%" valign="middle">
+<td width="55%" align="center" valign="middle">
 
-```
- ◆  class     →   Full-Stack / Systems
- ◆  origin    →   Brazil 🇧🇷
- ◆  stack     →   C++ · C# · Python · JS
- ◆  mindset   →   the world is yours
-```
+<img src="assets/about.svg" width="100%" alt="about"/>
 
 </td>
-<td width="44%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/b0/08/ec/b008ecb392ac318781b34692404e9c15.gif" width="320" alt=""/>
+<img src="https://i.pinimg.com/originals/b0/08/ec/b008ecb392ac318781b34692404e9c15.gif" width="100%" alt=""/>
 
 </td>
 </tr>
@@ -34,16 +29,16 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
 
 </div>
 
